@@ -1,8 +1,2 @@
-#include<stdio.h>
-int main()
-{
-int a;
-whiel(scanf("%d",&a)!=EOF)
-printf("I WILL COME TO WUDA\n");
-return 0;
-}
+# HELLO-WORLD
+    一个简单的数据库
